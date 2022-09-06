@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlejandroMaury
-- 👀 I’m interested in web development
+- 👀 I’m interested to development backend/frontend  
 - 🌱 I’m currently learning Javascript its amazing the big world in this little code
 - 💞️ I’m looking to collaborate on tech companies, with IOT pojects, javascript 
 - 📫 How to reach me on https://www.linkedin.com/in/ingalejandroarangomaury/ e-mail: alejandroarang@gmail.com 
